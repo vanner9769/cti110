@@ -1,2 +1,4 @@
-# cti110
-CTI 110 Repository
+# CTI 110 Repository
+Created for M2TLAB1
+Vanner
+09/26/2017
